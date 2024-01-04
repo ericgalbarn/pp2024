@@ -1,8 +1,7 @@
-# 1.student.mark.py
-
-# Data structures
-students = []  # List to store student information
-courses = []  # List to store course information
+# List to store student information
+students = []  
+# List to store course information
+courses = []  
 
 # Input functions
 def input_student_info():
